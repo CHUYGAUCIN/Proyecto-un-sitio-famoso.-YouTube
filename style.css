@@ -5,6 +5,7 @@
 
 .iconos-derecha{
     float: right;
+    
 }
 .iconos-izquierda{
     ;
@@ -47,6 +48,7 @@ header nav div{
     display: flex;
     text-align: left;
     }
+    
 
 .videos{
     display: flex;
